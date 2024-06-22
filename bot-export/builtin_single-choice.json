@@ -1,0 +1,31 @@
+[
+  {
+    "id": "builtin_single-choice-FnDG_I",
+    "formData": {
+      "dropdownPlaceholder$vi": "Select...",
+      "choices$vi": [
+        {
+          "title": "1",
+          "value": "1"
+        },
+        {
+          "title": "2",
+          "value": "2"
+        },
+        {
+          "title": "3",
+          "value": "3"
+        }
+      ],
+      "markdown$vi": true,
+      "disableFreeText$vi": true,
+      "displayInMessage$vi": true,
+      "typing$vi": true,
+      "text$vi": "Chọn các lựa chọn sau:\n1. Bạn muốn để lại thông tin để nhận tư vấn?\n2. Tìm kiếm thông tin trên google?\n3. Tiếp tục đặt câu hỏi khác?",
+      "isDropdown$vi": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2023-07-19T09:20:05.896Z",
+    "modifiedOn": "2023-07-24T08:42:13.092Z"
+  }
+]

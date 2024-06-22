@@ -1,0 +1,12 @@
+[
+  {
+    "id": "builtin_text-error",
+    "formData": {
+      "text$vi": "😯 Ối, có vẻ nhưng chúng tôi đang gặp một chút vấn đề. Bạn vui lòng thử những chức năng khác trong khi chúng tôi khắc phục lỗi này nhé. 🔨",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T18:58:10.702Z",
+    "modifiedOn": "2019-09-03T18:58:10.702Z"
+  }
+]

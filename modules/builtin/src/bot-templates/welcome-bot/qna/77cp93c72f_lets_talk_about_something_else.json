@@ -1,0 +1,29 @@
+{
+  "id": "77cp93c72f_lets_talk_about_something_else",
+  "data": {
+    "answers": {
+      "vi": []
+    },
+    "questions": {
+      "vi": [
+        "Hãy nói về những điều khác",
+        "Hãy nói về một con vật khác",
+        "Tôi muốn hỏi về một con vật khác",
+        "Tôi muốn chuyển động vật",
+        "Chuyển ngữ cảnh",
+        "Hãy để chúng tôi giải quyết một chủ đề khác",
+        "Chúng ta có thể thay đổi chủ đề không?",
+        "Hãy nói về bất cứ điều gì khác",
+        "Đặt lại động vật",
+        "Nói về các động vật có vú khác"
+      ]
+    },
+    "redirectFlow": "contexts.flow.json",
+    "redirectNode": "animal-choices",
+    "action": "redirect",
+    "enabled": true,
+    "contexts": [
+      "contexts"
+    ]
+  }
+}

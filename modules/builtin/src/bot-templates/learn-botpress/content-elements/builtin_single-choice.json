@@ -1,0 +1,25 @@
+[
+  {
+    "id": "builtin_single-choice-3TrCWM",
+    "formData": {
+      "dropdownPlaceholder$vi": "Hãy chọn ...",
+      "choices$vi": [
+        {
+          "title": "Có, hãy cho tôi xem bức ảnh",
+          "value": "Có, hãy cho tôi xem bức ảnh"
+        },
+        {
+          "title": "Không, hãy kiểm tra NLU trước",
+          "value": "Không, hãy kiểm tra NLU trước"
+        }
+      ],
+      "markdown$vi": true,
+      "disableFreeText$vi": true,
+      "typing$vi": true,
+      "text$vi": "Bạn có muốn xem một bức ảnh được chụp bởi rovers?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:29:20.914Z",
+    "modifiedOn": "2021-09-21T15:29:20.914Z"
+  }
+]

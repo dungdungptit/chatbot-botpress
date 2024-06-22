@@ -1,0 +1,33 @@
+{
+  "name": "__qna__4wywaoky6v_bye",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "tạm biệt",
+      "Xin chào",
+      "Tạm biệt",
+      "tạm biệt bây giờ",
+      "được rồi gặp cậu sau",
+      "nói chuyện với bạn sau!",
+      "hẹn gặp bạn vào ngày mai",
+      "Chúc ngủ ngon",
+      "tạm biệt",
+      "Hẹn gặp lại lần sau!"
+    ],
+    "fr": [
+      "Au revoir",
+      "Chow",
+      "Adieu",
+      "À la prochaine!",
+      "À une prochaine fois",
+      "Bonne nuit",
+      "Bonne fin de journée",
+      "à plus",
+      "a plus dans l'bus",
+      "À la revoyure"
+    ]
+  },
+  "slots": []
+}

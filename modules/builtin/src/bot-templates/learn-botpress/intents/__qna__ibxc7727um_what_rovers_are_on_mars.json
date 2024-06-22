@@ -1,0 +1,17 @@
+{
+  "name": "__qna__ibxc7727um_what_rovers_are_on_mars",
+  "entities": [],
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "Những xe tự hành nào đang ở trên sao Hỏa?",
+      "Xe tự hành nào đã đến sao Hỏa",
+      "Có bao nhiêu tàu thăm dò sao Hỏa?",
+      "Số lượng xe tự hành sao Hỏa là bao nhiêu?",
+      "Làm ơn cho tôi biết số lượng xe tự hành sao hỏa trên hành tinh sao hỏa."
+    ]
+  },
+  "slots": []
+}

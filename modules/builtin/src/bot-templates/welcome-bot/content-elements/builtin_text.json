@@ -1,0 +1,184 @@
+[
+  {
+    "id": "builtin_text-pSsHWg",
+    "formData": {
+      "text$vi": "👋, {{user.nickname}}!",
+      "variations$vi": ["Xin chào, {{user.nickname}}!", "Chào mừng đến với Botpress, {{user.nickname}}!"],
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z",
+    "modifiedOn": "2019-07-01T13:51:45.578Z"
+  },
+  {
+    "id": "builtin_text-AY5SSW",
+    "formData": {
+      "text$vi": "Đây là lần đầu tiên bạn chúng ta nói chuyện, {{user.nickname}}!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:59:51.118Z",
+    "modifiedOn": "2019-07-01T13:51:45.586Z"
+  },
+  {
+    "id": "builtin_text-bFsOmf",
+    "formData": {
+      "text$vi": "Chúng ta đã nói chuyện được {{temp.$r}} lần rồi đấy!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:00:37.593Z",
+    "modifiedOn": "2019-07-01T13:51:45.593Z"
+  },
+  {
+    "id": "builtin_text-TtzrCV",
+    "formData": {
+      "text$vi": "Được rồi, tôi đã quên mất tên của bạn rồi.",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:06:41.963Z",
+    "modifiedOn": "2019-07-01T13:51:45.598Z"
+  },
+  {
+    "id": "builtin_text-z0J9qh",
+    "formData": {
+      "text$vi": "Bạn có thể cho tôi biết tên của bạn được chứ?",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:08:41.241Z",
+    "modifiedOn": "2019-07-01T13:51:45.603Z"
+  },
+  {
+    "id": "builtin_text-X069Le",
+    "formData": {
+      "text$vi": "Thử nói vài thứ ví dụ như \"quên tên tôi đi\"!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:16:53.227Z",
+    "modifiedOn": "2019-07-01T13:51:45.607Z"
+  },
+  {
+    "id": "builtin_text-kKQ8C3",
+    "formData": {
+      "text$vi": "(Để biết chúng hoạt động như thế nào, hãy nhấn đúp chuột vào bất kì chỗ nào trong luồng và xem trong tab \"Phiên dịch\"",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:17:55.317Z",
+    "modifiedOn": "2019-07-01T13:51:45.612Z"
+  },
+  {
+    "id": "builtin_text-lbs0Re",
+    "formData": {
+      "text$vi": "Xin chào, nhiệm vụ của tôi là giúp bạn tìm hiểu về cách mà Botpress hoạt động.",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T16:41:48.068Z",
+    "modifiedOn": "2019-07-01T13:51:45.617Z"
+  },
+  {
+    "id": "builtin_text-sRxAPP",
+    "formData": {
+      "text$vi": "Bộ nhớ của bot được sử dụng để lưu trữ thông tin về người dùng và các thông tin khác trong đoan hội thoại. Ví dụ như:",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T16:55:01.413Z",
+    "modifiedOn": "2019-07-01T13:51:45.623Z"
+  },
+  {
+    "id": "builtin_text-6RY1f5",
+    "formData": {
+      "text$vi": "Có thể có rất nhiều câu hỏi giống như nhau nhưng mang ý nghĩa khác nhau. Trong những trường hợp này, chúng ta sử dụng \"Ngữ cảnh\"",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T17:02:32.795Z",
+    "modifiedOn": "2019-07-01T13:51:45.630Z"
+  },
+  {
+    "id": "builtin_text-UP2ozm",
+    "formData": {
+      "text$vi": "Làm ơn hãy chọn các con vật trong khung lựa chọn. Tôi đâu phải là nhà sinh vật học!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T18:05:07.711Z",
+    "modifiedOn": "2019-07-01T20:42:58.782Z"
+  },
+  {
+    "id": "builtin_text-lALv5x",
+    "formData": {
+      "text$vi": "Hãy hỏi nhưng câu hỏi liên quan đến những con vật trên. Ví dụ như: Vòng đơig hay môi trường sống của chúng?",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T18:14:48.625Z",
+    "modifiedOn": "2019-07-01T13:51:45.647Z"
+  },
+  {
+    "id": "builtin_text-bOU5xw",
+    "formData": {
+      "text$vi": "Hãy xem tài liệu của chúng tôi [documentation](https://botpress.com/docs/build/memory) để biết thêm về bộ nhớ bot.",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T18:29:05.998Z",
+    "modifiedOn": "2019-07-01T13:51:45.651Z"
+  },
+  {
+    "id": "builtin_text-SKQxXN",
+    "formData": {
+      "text$vi": "Xin hãy hỏi tôi những câu hỏi có trong khung lựa chọn. Hãy thử lại.",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T18:40:32.874Z",
+    "modifiedOn": "2019-07-01T13:51:45.656Z"
+  },
+  {
+    "id": "builtin_text-T8Oa8M",
+    "formData": {
+      "text$vi": "Để biết thêm về cách thiết lập một đoạn hội thoại sử dụng ngữ cảnh, xin hãy xem thêm hướng dẫn của chúng tôi [tutorial](https://botpress.com/docs/tutorials/contextual-faq)",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T19:53:14.411Z",
+    "modifiedOn": "2019-07-01T13:51:45.661Z"
+  },
+  {
+    "id": "builtin_text-yFOIFD",
+    "formData": {
+      "text$vi": "Hãy nói cho tôi nếu bạn cần giúp đỡ!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T22:02:33.058Z",
+    "modifiedOn": "2019-07-01T13:51:45.667Z"
+  },
+  {
+    "id": "builtin_text-error",
+    "formData": {
+      "text$vi": "😯 Ối, có vẻ nhưng chúng tôi đang gặp một chút vấn đề. Bạn vui lòng thử những chức năng khác trong khi chúng tôi khắc phục lỗi này nhé. 🔨",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T18:58:10.702Z",
+    "modifiedOn": "2019-09-03T18:58:10.702Z"
+  },
+  {
+    "id": "builtin_text--icAL0",
+    "formData": {
+      "markdown$vi": true,
+      "typing$vi": true,
+      "text$vi": "{{temp.endMessage}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-07-23T19:07:46.506Z",
+    "modifiedOn": "2021-07-23T19:22:07.392Z"
+  }
+]

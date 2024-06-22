@@ -1,0 +1,21 @@
+{
+  "name": "__qna__16y2ki6wm1_how_many_years_does_a_monkey_live",
+  "contexts": [
+    "monkeys"
+  ],
+  "utterances": {
+    "vi": [
+      "Con khỉ sống bao nhiêu năm?",
+      "Khỉ sống được bao lâu?",
+      "Tuổi thọ của khỉ là bao nhiêu?",
+      "Tuổi thọ điển hình của khỉ",
+      "Khỉ có sống lâu không?",
+      "Con khỉ có thể bao nhiêu tuổi?",
+      "Chúng ta có thể mong đợi tuổi thọ bao lâu từ loài khỉ?",
+      "Khi nào khỉ chết?",
+      "Thông thường một con khỉ có thể sống được bao lâu?",
+      "Tuổi thọ của con khỉ"
+    ]
+  },
+  "slots": []
+}

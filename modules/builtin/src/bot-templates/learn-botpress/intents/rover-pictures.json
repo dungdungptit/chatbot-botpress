@@ -1,0 +1,35 @@
+{
+  "name": "rover-pictures",
+  "utterances": {
+    "vi": [
+      "Hình ảnh xe tự hành",
+      "Những bức ảnh từ sao Hỏa",
+      "Những bức ảnh về xe tự hành sao Hỏa",
+      "Hiển thị hình ảnh từ mars rover",
+      "Tìm kiếm hình ảnh của xe tự hành",
+      "Tôi muốn xem hình ảnh được chụp từ xe tự hành",
+      "Vui lòng cho tôi xem ảnh xe tự hành sao hỏa từ nasa",
+      "[2018-09-09](earthDate) hình ảnh xe tự hành",
+      "Ảnh sao hỏa [2 tháng 10 năm 2018](ngày trái đất)",
+      "Hình ảnh sao Hỏa [ngày 11 tháng 2 năm 2017](ngày trái đất)",
+      "Hình ảnh từ xe tự hành từ [2020-09-02](earthDate)",
+      "Đưa cho tôi [2019-08-02](earthDate) ảnh từ bot không gian",
+      "Tôi muốn xem ảnh từ xe tự hành vào ngày [ngày 2 tháng 6 năm ngoái](ngày trái đất).",
+      "Bạn có thể cung cấp cho tôi những hình ảnh của robot thám hiểm sao Hỏa từ [ngày 3 tháng 3 năm 2014](earthDate).",
+      "Những bức ảnh về không gian, giống như bot rover sao hỏa được chụp vào ngày sinh nhật của tôi [5 tháng 8 năm 2017](earthDate)"
+    ]
+  },
+  "slots": [
+    {
+      "id": "LLkHajVSSWBpWkRf0Jgpl",
+      "name": "earthDate",
+      "entities": [
+        "time"
+      ],
+      "color": 1
+    }
+  ],
+  "contexts": [
+    "global"
+  ]
+}

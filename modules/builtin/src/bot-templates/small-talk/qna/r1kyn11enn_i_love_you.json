@@ -1,0 +1,47 @@
+{
+  "id": "r1kyn11enn_i_love_you",
+  "data": {
+    "questions": {
+      "vi": [
+        "Anh Yêu Em",
+        "Tôi đang ở trong tình yêu với bạn",
+        "Bạn có yêu tôi không?!",
+        "Tôi đem lòng yêu em",
+        "Tôi thực sự thích bạn",
+        "Tôi có sự ngưỡng mộ sâu sắc đối với bạn",
+        "Tôi ngưỡng mộ bạn",
+        "Tôi có tình cảm với bạn",
+        "Anh yêu em say đắm",
+        "Tôi khao khát bạn",
+        "Tôi tôn thờ mặt đất bạn đi bộ"
+      ],
+      "fr": [
+        "Je t'aime",
+        "Je t'adore",
+        "Je te veux à jamais",
+        "Je suis follement amoureux de toi",
+        "Je suis dingue pour toi",
+        "J'ai besoin de toi",
+        "Je crois que je suis entrain de tomber pour toi",
+        "Tu es l'amour de ma vie",
+        "Je t'aime à la folie!",
+        "Tu es mon coup de foudre"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Mọi người luôn nói với tôi rằng tôi là một bot nhỏ đáng yêu :-)"
+      ],
+      "fr": [
+        "S'il vous plait, continuez à me dire que je un petit robot aimable!"
+      ]
+    },
+    "redirectFlow": "main.flow.json",
+    "redirectNode": "node-1fe2",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

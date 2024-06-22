@@ -1,0 +1,26 @@
+{
+  "id": "ibxc7727um_what_rovers_are_on_mars",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "vi": [
+        "Bảy bot đã tìm cách hạ cánh trên sao Hỏa. Hiện có thể lấy hình ảnh từ Cơ hội, Tinh thần và Sự tò mò."
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Những xe tự hành nào đang ở trên sao Hỏa?",
+        "Xe tự hành nào đã đến sao Hỏa",
+        "Có bao nhiêu tàu thăm dò sao Hỏa?",
+        "Số lượng xe tự hành sao Hỏa là bao nhiêu?",
+        "Làm ơn cho tôi biết số lượng xe tự hành sao hỏa trên hành tinh sao hỏa."
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

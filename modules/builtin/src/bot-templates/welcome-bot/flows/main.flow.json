@@ -1,0 +1,60 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "batdau",
+  "nodes": [
+    {
+      "id": "df052970ef",
+      "name": "batdau",
+      "next": [
+        {
+          "condition": "true",
+          "node": "topic-choices"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-lbs0Re",
+        "builtin/removeContext {\"contexts\":\"monkeys,giraffes\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "e4887b15ba",
+      "type": "skill-call",
+      "skill": "choice",
+      "name": "topic-choices",
+      "flow": "skills/choice-62d44d.flow.json",
+      "next": [
+        {
+          "condition": "temp['skill-choice-ret'] == \"ngữ cảnh\"",
+          "node": "contexts.flow.json"
+        },
+        {
+          "condition": "temp['skill-choice-ret'] == \"bộ nhớ bot\"",
+          "node": "memory.flow.json"
+        },
+        {
+          "caption": "On failure",
+          "condition": "true",
+          "node": "catch"
+        }
+      ],
+      "onEnter": null,
+      "onReceive": null
+    },
+    {
+      "id": "114b7e7782",
+      "name": "catch",
+      "next": [
+        {
+          "condition": "true",
+          "node": "topic-choices"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-SKQxXN"
+      ],
+      "onReceive": null
+    }
+  ]
+}

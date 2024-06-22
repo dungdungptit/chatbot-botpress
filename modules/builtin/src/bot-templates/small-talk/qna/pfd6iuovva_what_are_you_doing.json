@@ -1,0 +1,47 @@
+{
+  "id": "pfd6iuovva_what_are_you_doing",
+  "data": {
+    "answers": {
+      "vi": [
+        "Không có gì nhiều. Tôi chỉ làm lạnh và đào tạo các mô hình ngôn ngữ tự nhiên!"
+      ],
+      "fr": [
+        "Pas grand chose, je me détends et j'entraine des models linguistiques naturelles!"
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Bạn đang làm gì thế?",
+        "Chuyện gì vậy?",
+        "Có chuyện gì vậy",
+        "wazaa",
+        "Bạn định làm gì?",
+        "Kế hoạch trong ngày của bạn là gì?",
+        "Bất kỳ kế hoạch?",
+        "Hãy cho tôi biết bạn đang làm gì ngay bây giờ.",
+        "Cái gì mới?",
+        "Bạn sẽ làm gì tiếp theo?",
+        "Có kế hoạch lớn nào cho chiều nay không?"
+      ],
+      "fr": [
+        "Qu'est ce que tu fais?",
+        "Vous foutez quoi?",
+        "Quoi de neuf?",
+        "Tu fais quoi?",
+        "Qu'est ce qui se passe?",
+        "À quoi tu joues présentement?",
+        "Quelque chose de nouveau?",
+        "Qu'est qui vous tient occupé?",
+        "Que fais tu, ces temps-ci?",
+        "Tu es entrain de faire quoi?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

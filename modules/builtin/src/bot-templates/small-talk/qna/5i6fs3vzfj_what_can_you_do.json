@@ -1,0 +1,47 @@
+{
+  "id": "5i6fs3vzfj_what_can_you_do",
+  "data": {
+    "questions": {
+      "vi": [
+        "Bạn có thể làm gì?",
+        "Làm thế nào bạn có thể giúp tôi?",
+        "làm thế nào để tôi sử dụng cái này?",
+        "Cho tôi xem danh sách các tính năng của bạn",
+        "Bạn có thể giúp tôi với những lựa chọn nào?",
+        "Hãy cho tôi biết về khả năng của bạn",
+        "Bạn có thể làm những việc gì?",
+        "Bạn có thể cho tôi danh sách các chức năng của bạn không?",
+        "Mục đích của bạn là gì?",
+        "Bạn có thể giúp tôi điều gì?",
+        "Tôi có thể xem danh sách các kỹ năng của bạn không?"
+      ],
+      "fr": [
+        "Qu'est que tu peux faire?",
+        "Quels sont vos capacités?",
+        "Tu peux faire quoi pour moi",
+        "À quoi tu sers?",
+        "Je peux voir un menu de tes options?",
+        "Avec quoi pouvez-vous m'aider?",
+        "Liste de tes capacités",
+        "Quel est votre utilité?",
+        "Tous tes options svp",
+        "Que peux-tu faire pour moi?"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Tôi có thể giúp bạn nhiều thứ, chỉ cần bạn hỏi"
+      ],
+      "fr": [
+        "Je peux faire plusieurs trucs, il suffit de demander!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

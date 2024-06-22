@@ -1,0 +1,31 @@
+{
+  "id": "pgedex03mc_where_do_monkeys_live",
+  "data": {
+    "answers": {
+      "vi": [
+        "Hầu hết các loài khỉ có thể được tìm thấy trong các khu rừng mưa nhiệt đới ở Châu Á, Châu Phi, Châu Âu và Trung và Nam Mỹ."
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Khỉ sống ở đâu?",
+        "Tôi có thể tìm khỉ ở đâu?",
+        "Môi trường sống của chúng là gì?",
+        "Vị trí của khỉ là gì?",
+        "Hãy cho tôi biết nơi ở của những con khỉ?",
+        "Tôi muốn định vị chúng.",
+        "Họ ở đâu?",
+        "cho tôi biết họ đang ở đâu",
+        "Tôi muốn tìm khỉ?",
+        "Môi trường sống tự nhiên của khỉ"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "monkeys"
+    ]
+  }
+}

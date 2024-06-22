@@ -1,0 +1,21 @@
+{
+  "name": "__qna__hxwve8olkg_help_me",
+  "contexts": [
+    "contexts"
+  ],
+  "utterances": {
+    "vi": [
+      "giúp tôi",
+      "Tôi cần giúp đỡ",
+      "Tôi không biết phải làm gì",
+      "Tôi bị mắc kẹt",
+      "Tôi làm gì",
+      "tôi có thể làm gì?",
+      "Tôi không hiểu, nó hoạt động như thế nào!",
+      "Làm ơn giúp tôi!",
+      "Cái này hoạt động ra sao?",
+      "Giúp tôi với!!"
+    ]
+  },
+  "slots": []
+}

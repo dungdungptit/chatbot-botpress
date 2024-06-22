@@ -1,0 +1,22 @@
+[
+  {
+    "id": "builtin_single-choice-feedback",
+    "formData": {
+      "text$vi": "Nó có ích cho bạn không?",
+      "choices$vi": [
+        {
+          "title": "Có 👍",
+          "value": "có"
+        },
+        {
+          "title": "Không 👎",
+          "value": "không"
+        }
+      ],
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-01-15T16:48:38.141Z",
+    "modifiedOn": "2020-01-15T16:48:38.141Z"
+  }
+]

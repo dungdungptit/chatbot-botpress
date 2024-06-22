@@ -1,0 +1,27 @@
+{
+  "name": "libraries",
+  "fullName": "Thư viện",
+  "version": "1.1.0",
+  "status": "experimental",
+  "description": "Cung cấp công cụ cần thiết để dễ dàng cài đặt các thư viện có thể được sử dụng bởi các tập lệnh khác",
+  "private": true,
+  "main": "dist/backend/index.js",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "build": "node ../../build/module-builder/bin/entry build",
+    "watch": "node ../../build/module-builder/bin/entry watch",
+    "package": "node ../../build/module-builder/bin/entry package"
+  },
+  "dependencies": {
+    "axios": "^0.21.2",
+    "fs-extra": "^9.0.1",
+    "mkdirp": "^1.0.4",
+    "npm": "^6.14.8",
+    "tmp": "^0.2.1"
+  },
+  "resolutions": {
+    "fstream": ">=1.0.12",
+    "lodash": ">=4.17.21"
+  }
+}

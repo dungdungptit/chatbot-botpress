@@ -1,0 +1,33 @@
+{
+  "name": "__qna__f2osy09wyi_what_s_your_hobby",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "Sở thích của bạn là gì?",
+      "Bạn có sở thích chứ?",
+      "Bạn sẽ làm gì trong thời gian rảnh rỗi?",
+      "Bot có hoạt động giải trí không?",
+      "Trò tiêu khiển yêu thích của bạn là gì?",
+      "Bot làm gì để chuyển hướng?",
+      "Bạn làm gì trong thời gian rảnh?",
+      "Bạn say mê gì?",
+      "Bạn làm gì để giải trí?",
+      "Hãy cho tôi biết hoạt động yêu thích của bạn"
+    ],
+    "fr": [
+      "Quel est ton loisir?",
+      "Dit moi ton hobby préféré?",
+      "Quel est votre passe temps?",
+      "Qu'est ce que vous faites dans vos temps mort",
+      "Tu t'occupes de quel manière.",
+      "Qu'est ce que tu fais dans la vie pour le plaisir",
+      "Qu'aimer vous faire de vos temps morts?",
+      "Parles moi de ton loisir préféré!",
+      "Comment vous utiliser vos temps morts?",
+      "De quel manière est ce que tu te distrais?"
+    ]
+  },
+  "slots": []
+}

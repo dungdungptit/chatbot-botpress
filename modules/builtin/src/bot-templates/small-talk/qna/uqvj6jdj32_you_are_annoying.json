@@ -1,0 +1,48 @@
+{
+  "id": "uqvj6jdj32_you_are_annoying",
+  "data": {
+    "questions": {
+      "vi": [
+        "bạn đang gây phiền nhiễu",
+        "ngừng nói",
+        "làm ơn. Dừng lại đi",
+        "bạn làm phiền tôi",
+        "bạn thật khó chịu",
+        "bạn là bot tồi",
+        "bạn thật vô dụng",
+        "bạn thật ngu ngốc",
+        "bot câm",
+        "bạn là người khập khiễng",
+        "Bạn thật kinh khủng",
+        "Thật là lãng phí thời gian!"
+      ],
+      "fr": [
+        "Tu m'énerves",
+        "Tu me tapes sur les nerfs",
+        "Vous êtes hautement inutile",
+        "Votre incompétence n'a pas d'égal",
+        "Vous êtes un robot stupide",
+        "Tu es nul",
+        "Tu sers à rien",
+        "Tu me désoles",
+        "Pauvre robot inutile",
+        "Tes réponses sont d'une idiocy complète"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Tôi xin lỗi nếu bạn cảm thấy như vậy."
+      ],
+      "fr": [
+        "Je suis désolé, que vous vous sentiez comme ça."
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

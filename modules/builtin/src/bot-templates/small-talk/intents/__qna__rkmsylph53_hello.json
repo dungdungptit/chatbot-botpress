@@ -1,0 +1,33 @@
+{
+  "name": "__qna__rkmsylph53_hello",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "Xin chào",
+      "CHÀO",
+      "Chào",
+      "Này",
+      "chào bạn",
+      "xin chúc mừng",
+      "sup'",
+      "Nàyyyy",
+      "Lời chào hỏi",
+      "Lời chào"
+    ],
+    "fr": [
+      "Bonjour",
+      "Salut",
+      "Allo",
+      "Cou cou",
+      "Bonsoir",
+      "Bon matin",
+      "Bonne matinée",
+      "Bonjour toi",
+      "Salut vous",
+      "Bonjour le robot"
+    ]
+  },
+  "slots": []
+}

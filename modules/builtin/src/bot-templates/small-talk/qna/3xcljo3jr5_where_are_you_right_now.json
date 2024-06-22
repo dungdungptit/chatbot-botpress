@@ -1,0 +1,46 @@
+{
+  "id": "3xcljo3jr5_where_are_you_right_now",
+  "data": {
+    "questions": {
+      "vi": [
+        "hiện tại bạn đang ở đâu?",
+        "bạn sống ở đâu?",
+        "Bạn ở đâu?",
+        "Bạn đang ở đâu?",
+        "bạn sống ở đâu",
+        "môi trường sống của bạn là gì",
+        "bạn ở đâu?",
+        "Hãy cho tôi biết bạn sống ở đâu",
+        "Bạn đang ở đâu?",
+        "Hãy cho tôi biết nơi ở của bạn"
+      ],
+      "fr": [
+        "Où es-tu?",
+        "Tu es ou?",
+        "À quel endroit tu te situes?",
+        "Vous vous situez ou?",
+        "À quel emplacement je peux vous trouver?",
+        "Quel est ton emplacement?",
+        "Ou puis-je vous trouver?",
+        "t'es ou?",
+        "Tu es à quel place?",
+        "Quel est ton lieu?"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Tôi là một chương trình máy tính, vì vậy tôi sống trong một máy chủ nhàm chán."
+      ],
+      "fr": [
+        "Je suis un logiciel informatique, donc j'existe à l'intérieur d'un serveur."
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

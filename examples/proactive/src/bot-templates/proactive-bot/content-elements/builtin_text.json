@@ -1,0 +1,42 @@
+[
+  {
+    "id": "builtin_text-LnsobY",
+    "formData": {
+      "text$vi": "Xin chào! Tôi là Bot. Tôi có thể giúp gì cho bạn?",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-06-19T15:30:56.241Z",
+    "modifiedOn": "2019-06-19T18:18:10.869Z"
+  },
+  {
+    "id": "builtin_text-aJG2tU",
+    "formData": {
+      "text$vi": "Xin chào {{session.contactForm.name}}, tôi rất vui vì bạn đã chọn Botpress tahy vì những nền tảng khác!",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-06-19T19:28:14.505Z",
+    "modifiedOn": "2019-06-19T20:13:27.125Z"
+  },
+  {
+    "id": "builtin_text-c9e7j-",
+    "formData": {
+      "text$vi": "Trường này thực sự không có ý nghĩa gì cả! Bạn có thể để trống.",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-06-19T19:51:35.637Z",
+    "modifiedOn": "2019-06-19T20:15:56.675Z"
+  },
+  {
+    "id": "builtin_text-l37HZR",
+    "formData": {
+      "text$vi": "Thật sao?! \"{{session.contactForm.platform}}\" ??  Hãy thêm bạn vào danh sách người dùng \"đặc biệt\" 😈",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-06-19T20:19:33.476Z",
+    "modifiedOn": "2019-06-19T20:27:26.286Z"
+  }
+]

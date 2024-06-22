@@ -1,0 +1,46 @@
+{
+  "id": "rkmsylph53_hello",
+  "data": {
+    "questions": {
+      "vi": [
+        "Xin chào",
+        "CHÀO",
+        "Chào",
+        "Này",
+        "chào bạn",
+        "xin chúc mừng",
+        "sup'",
+        "Nàyyyy",
+        "Lời chào hỏi",
+        "Lời chào"
+      ],
+      "fr": [
+        "Bonjour",
+        "Salut",
+        "Allo",
+        "Cou cou",
+        "Bonsoir",
+        "Bon matin",
+        "Bonne matinée",
+        "Bonjour toi",
+        "Salut vous",
+        "Bonjour le robot"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Xin chào. Rất vui được gặp bạn!"
+      ],
+      "fr": [
+        "Bonjour, c'est un plaisir de vous rencontrer!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

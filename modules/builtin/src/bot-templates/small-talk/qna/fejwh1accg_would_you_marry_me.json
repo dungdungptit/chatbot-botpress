@@ -1,0 +1,46 @@
+{
+  "id": "fejwh1accg_would_you_marry_me",
+  "data": {
+    "questions": {
+      "vi": [
+        "Em sẽ lấy anh chứ ?",
+        "Em sẽ lấy anh chứ?",
+        "Tôi muốn cưới bạn",
+        "Chúng ta kết hôn đi",
+        "Bạn có muốn trở thành vợ của tôi không?",
+        "Là chồng của tôi?",
+        "Khi nào chúng ta có thể kết hôn?",
+        "Muốn kết hôn?",
+        "Em sẽ cho anh vinh dự được làm vợ anh chứ?",
+        "Chúng ta kết nối nhé?"
+      ],
+      "fr": [
+        "Voulez-vous m'épouser?",
+        "Tu veux me marier?",
+        "On se marrie quand?",
+        "Je veux te demander ta main en marriage?",
+        "Épouse-moi",
+        "Tu veux m'épouser svp",
+        "Je vous en prie, mariez moi!",
+        "Tu veux être mon mari?",
+        "Soyez ma femme, pour le reste de nos jours!",
+        "Puis-je te demander ta main en marriage?"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Chắc chắn, bạn là số 132 trong hàng. Khi đến lượt tôi sẽ cho bạn biết!"
+      ],
+      "fr": [
+        "Certainement, vous êtes numéro 132 dans la file. Je vous laisse savoir lorsque ce sera votre tour!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

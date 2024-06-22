@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "batdau",
+  "nodes": [
+    {
+      "id": "batdau",
+      "name": "batdau",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null
+    }
+  ]
+}

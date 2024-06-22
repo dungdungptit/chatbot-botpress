@@ -1,0 +1,195 @@
+[
+  {
+    "id": "16y2ki6wm1_how_many_years_does_a_monkey_live",
+    "data": {
+      "answers": {
+        "vi": ["Tuổi thọ của một con khỉ là từ 10 đến 50 năm, tùy thuộc vào loài."]
+      },
+      "questions": {
+        "vi": [
+          "Con khỉ sống bao nhiêu năm?",
+          "Khỉ sống được bao lâu?",
+          "Tuổi thọ của khỉ là bao nhiêu?",
+          "Tuổi thọ điển hình của khỉ",
+          "Khỉ có sống lâu không?",
+          "Con khỉ có thể bao nhiêu tuổi?",
+          "Chúng ta có thể mong đợi tuổi thọ bao lâu từ loài khỉ?",
+          "Khi nào khỉ chết?",
+          "Thông thường một con khỉ có thể sống được bao lâu?",
+          "Tuổi thọ của con khỉ"
+        ]
+      },
+      "redirectFlow": "",
+      "redirectNode": "",
+      "action": "text",
+      "category": "monkeys",
+      "enabled": true
+    }
+  },
+  {
+    "id": "31oi0r2lvp_where_do_giraffes_live",
+    "data": {
+      "answers": {
+        "vi": ["Hầu hết hươu cao cổ sống ở Đông Phi hoặc ở Angola và Zambia ở tây nam châu Phi."]
+      },
+      "questions": {
+        "vi": [
+          "Tôi có thể tìm hươu cao cổ ở đâu?",
+          "Họ sống ở đâu?",
+          "Môi trường sống tự nhiên của chúng là gì?",
+          "Tôi đang tìm hươu cao cổ",
+          "Địa điểm có nhiều hươu cao cổ nhất",
+          "Hãy cho tôi biết hươu cao cổ sống ở đâu!",
+          "Hươu cao cổ nằm ở đâu?",
+          "Làm thế nào tôi có thể tìm thấy một con hươu cao cổ hoang dã?",
+          "Hươu cao cổ ở đâu?",
+          "Tìm hươu cao cổ ở đâu"
+        ]
+      },
+      "redirectFlow": "",
+      "redirectNode": "",
+      "action": "text",
+      "category": "giraffes",
+      "enabled": true
+    }
+  },
+  {
+    "id": "77cp93c72f_lets_talk_about_something_else",
+    "data": {
+      "answers": {
+        "vi": []
+      },
+      "questions": {
+        "vi": [
+          "Hãy nói về những điều khác",
+          "Hãy nói về một con vật khác",
+          "Tôi muốn hỏi về một con vật khác",
+          "Tôi muốn chuyển động vật",
+          "Chuyển bối cảnh",
+          "Hãy để chúng tôi giải quyết một chủ đề khác",
+          "Chúng ta có thể thay đổi chủ đề không?",
+          "Hãy nói về bất cứ điều gì khác",
+          "Đặt lại động vật",
+          "Nói về các động vật có vú khác"
+        ]
+      },
+      "redirectFlow": "contexts.flow.json",
+      "redirectNode": "animal-choices",
+      "action": "redirect",
+      "category": "contexts",
+      "enabled": true
+    }
+  },
+  {
+    "id": "hxwve8olkg_help_me",
+    "data": {
+      "answers": {
+        "vi": [
+          "Để tìm hiểu thêm về cách thiết lập Câu hỏi thường gặp theo ngữ cảnh, vui lòng tham khảo [hướng dẫn](https://botpress.com/docs/tutorials/contextual-faq) của chúng tôi"
+        ]
+      },
+      "questions": {
+        "vi": [
+          "giúp tôi",
+          "Tôi cần giúp đỡ",
+          "Tôi không biết phải làm gì",
+          "Tôi bị mắc kẹt",
+          "Tôi làm gì",
+          "tôi có thể làm gì?",
+          "Tôi không hiểu, nó hoạt động như thế nào!",
+          "Làm ơn giúp tôi!",
+          "Cái này hoạt động ra sao?",
+          "giúp đỡ!!"
+        ]
+      },
+      "redirectFlow": "",
+      "redirectNode": "",
+      "action": "text",
+      "category": "contexts",
+      "enabled": true
+    }
+  },
+  {
+    "id": "pgedex03mc_where_do_monkeys_live",
+    "data": {
+      "answers": {
+        "vi": [
+          "Hầu hết các loài khỉ có thể được tìm thấy trong các khu rừng mưa nhiệt đới ở Châu Á, Châu Phi, Châu Âu và Trung và Nam Mỹ."
+        ]
+      },
+      "questions": {
+        "vi": [
+          "Khỉ sống ở đâu?",
+          "Tôi có thể tìm khỉ ở đâu?",
+          "Môi trường sống của chúng là gì?",
+          "Vị trí của khỉ là gì?",
+          "Hãy cho tôi biết nơi ở của những con khỉ?",
+          "Tôi muốn định vị chúng.",
+          "Họ ở đâu?",
+          "cho tôi biết họ đang ở đâu",
+          "Tôi muốn tìm khỉ?",
+          "Môi trường sống tự nhiên của khỉ"
+        ]
+      },
+      "redirectFlow": "",
+      "redirectNode": "",
+      "action": "text",
+      "category": "monkeys",
+      "enabled": true
+    }
+  },
+  {
+    "id": "wh0qeyfjzv_how_many_years_does_a_giraffe_live",
+    "data": {
+      "answers": {
+        "vi": ["Hươu cao cổ khỏe mạnh sống khoảng 25 năm trong tự nhiên."]
+      },
+      "questions": {
+        "vi": [
+          "Hươu cao cổ sống được bao nhiêu năm?",
+          "Hươu cao cổ có thể sống bao lâu?",
+          "Tuổi thọ của hươu cao cổ là bao nhiêu?",
+          "Tuổi thọ của hươu cao cổ",
+          "Tuổi thọ điển hình của hươu cao cổ?",
+          "Hươu cao cổ có thể bao nhiêu tuổi?",
+          "Hươu cao cổ thường chết khi nào?",
+          "Tuổi thọ",
+          "Hươu cao cổ có sống lâu không?",
+          "Hãy cho tôi biết về tuổi thọ của hươu cao cổ!"
+        ]
+      },
+      "redirectFlow": "",
+      "redirectNode": "",
+      "action": "text",
+      "category": "giraffes",
+      "enabled": true
+    }
+  },
+  {
+    "id": "xr9uskkhv0_forget_my_name",
+    "data": {
+      "answers": {
+        "vi": []
+      },
+      "questions": {
+        "vi": [
+          "quên tên tôi đi",
+          "không nhớ tôi",
+          "xóa tên tôi",
+          "xóa tôi đi",
+          "ngừng nhớ về tôi",
+          "quên tôi đi",
+          "Xin hãy quên danh tính của tôi đi",
+          "Bạn có thể xóa tên tôi khỏi cơ sở dữ liệu của bạn không?",
+          "Tôi có thể yêu cầu bạn quên tôi là ai không?",
+          "Xóa ký ức của bạn về tên của tôi"
+        ]
+      },
+      "redirectFlow": "memory.flow.json",
+      "redirectNode": "forget-my-name",
+      "action": "redirect",
+      "category": "memory",
+      "enabled": true
+    }
+  }
+]

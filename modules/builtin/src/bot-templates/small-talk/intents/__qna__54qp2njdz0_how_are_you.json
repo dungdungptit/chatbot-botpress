@@ -1,0 +1,33 @@
+{
+  "name": "__qna__54qp2njdz0_how_are_you",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "Bạn có khỏe không?",
+      "Thế nào rồi?",
+      "Có chuyện gì vậy?",
+      "sự việc như thế nào?",
+      "Bạn dạo này thế nào?",
+      "cậu thế nào rồi anh bạn?",
+      "Bạn cảm thấy thế nào?",
+      "Tâm trạng của bạn hôm nay thế nào?",
+      "Bạn khỏe chứ?",
+      "Ngày hôm nay của bạn thế nào?"
+    ],
+    "fr": [
+      "Comment ça va?",
+      "Tu vas bien?",
+      "Vous vous portez bien?",
+      "ca va",
+      "Comment se passe ta journée",
+      "Ta journée se passe bien pour toi?",
+      "De quel humeur es-tu?",
+      "Yo, ça va?",
+      "ça roule?",
+      "ca se passe bien?"
+    ]
+  },
+  "slots": []
+}

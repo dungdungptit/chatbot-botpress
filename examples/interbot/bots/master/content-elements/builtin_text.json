@@ -1,0 +1,24 @@
+[
+  {
+    "id": "builtin_text-8mwYrq",
+    "formData": {
+      "text$vi": "Bot {{temp.delegation.0.botId}} có thể giúp bạn trả lời câu hỏi này.\n\n[Hãy hỏi {{temp.delegation.0.botId}}]({{{temp.delegation.0.botUrl}}}) câu hỏi này\n\nBot {{temp.delegation.0.botId}} sẽ nói cho bạn:\n> {{{temp.delegation.0.answer}}}",
+      "typing$vi": true,
+      "markdown$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T21:49:17.498Z",
+    "modifiedOn": "2019-03-25T21:54:30.808Z"
+  },
+  {
+    "id": "builtin_text-JqYzWM",
+    "formData": {
+      "text$vi": "Xin lỗi, tôi không biết bot nào có thể giúp bạn với câu hỏi này. Bạn có thể hỏi lại một cách khác không?",
+      "typing$vi": true,
+      "markdown$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T21:49:49.933Z",
+    "modifiedOn": "2019-03-25T21:49:49.933Z"
+  }
+]

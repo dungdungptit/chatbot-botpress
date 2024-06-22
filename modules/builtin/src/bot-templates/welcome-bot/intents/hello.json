@@ -1,0 +1,21 @@
+{
+  "name": "hello",
+  "filename": "hello.json",
+  "contexts": ["global"],
+  "slots": [],
+  "utterances": {
+    "vi": [
+      "chúc bạn có một ngày tốt lành!",
+      "Chào buổi sáng",
+      "hô la",
+      "xin chào",
+      "chào bạn",
+      "chào bot",
+      "này bot",
+      "Này người máy",
+      "Chào!",
+      "CHÀO",
+      "Xin chào"
+    ]
+  }
+}

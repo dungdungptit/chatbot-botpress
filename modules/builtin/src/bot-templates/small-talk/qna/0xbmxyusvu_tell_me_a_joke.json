@@ -1,0 +1,46 @@
+{
+  "id": "0xbmxyusvu_tell_me_a_joke",
+  "data": {
+    "questions": {
+      "vi": [
+        "Hãy kể cho tôi một câu chuyện cười",
+        "Bạn có thể kể cho tôi một câu chuyện cười được không?",
+        "Tôi muốn nghe một câu chuyện cười",
+        "khiến tôi cười",
+        "kể cho tôi nghe điều gì đó buồn cười",
+        "câu nói đùa",
+        "hãy cho tôi thấy sự hài hước của bạn",
+        "Hãy hài hước ngay bây giờ!",
+        "Bạn có thể nói điều gì đó thú vị không?",
+        "Bạn có chuyện cười hay để chia sẻ không?"
+      ],
+      "fr": [
+        "Raconte moi une blaque",
+        "Dit moi une joke",
+        "Dit un truc drôle",
+        "Raconte moi ta meilleure histoire comique",
+        "Une blague svp",
+        "Fait moi rire!",
+        "Es-tu capable de me faire rire?",
+        "je veux une blague maintenant",
+        "Je veux entendre un anecdote humoristique",
+        "Soit drole !"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Đó là câu chuyện về 2 cục nước đá trong sa mạc và.... đừng bận tâm, chúng đã biến mất."
+      ],
+      "fr": [
+        "C'est l'histoire de deux glaçons dans le desert et... laisse tomber, ils ne sont plus là."
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

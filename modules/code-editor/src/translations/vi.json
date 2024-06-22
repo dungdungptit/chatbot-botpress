@@ -1,0 +1,91 @@
+{
+  "error": {
+    "cannotOpenFile": "Không thể mở file với extension này",
+    "cannotSaveFile": "Không thể lưu file",
+    "cannotUploadFile": "Không thể tải file lên",
+    "fileUploadDisabled": "Chức năng tải file lên đã bị vô hiệu hóa bởi biến môi trường.",
+    "invalidJson": "File định dang JSON không hợp lệ: {details}",
+    "lackUploadPermissions": "Bạn không đủ quyền để tải file lên.",
+    "missingParameters": "Thiếu tham số"
+  },
+  "fileStatus": {
+    "fileInformation": "Thông tin file",
+    "fixThem": "Hãy chắc rằng bạn đã sửa {count, plural, one {it} other {them}} trước khi lưu file.",
+    "thereAreErrors": "Có {count, plural, one {is} other {are}} {count} {count, plural, one {error} other {errors}} trong file của bạn.",
+    "viewDetails": "Xem chi tiết"
+  },
+  "fullName": "Trình chỉnh sửa mã nguồn",
+  "nameModal": {
+    "chooseNameForFile": "Chọn tên cho file",
+    "createNewFile": "Tạo file mới",
+    "fileName": "Tên file (bao gồm cả đường dẫn)",
+    "nameAlreadyExists": "File đã tồn tại. Vui long chọn tên khác hặc xóa file cũ trước khi tạo mới.",
+    "renameOrMoveFile": "Đổi tên hoặc di chuyển file"
+  },
+  "navigator": {
+    "cannotBeEdited": "Không thể chỉnh sửa trực tiếp",
+    "codeSamples": "Những câu lệnh mẫu bạn có thể sao chép",
+    "codeSamples2": "để thêm tính năng mới vào bot của bạn.",
+    "copyExample": "Sao chép mẫu này cho bot của bạn",
+    "copyExampleToHooks": "Sao chép mẫu này vào hooks toàn cục",
+    "duplicateToCurrent": "Sao chép vào bot hiện tại",
+    "isReadOnly": "File chỉ được phép đọc",
+    "noFilesFound": "Không tìm thấy file nào trong danh mục này",
+    "renameMove": "Đổi tên hoặc di chuyển"
+  },
+  "newFileModal": {
+    "createForCurrent": "Tạo mới cho bot hiện tại",
+    "createNew": "Tạo mới với tên {name}",
+    "fileName": "Tên file",
+    "fileNameHelp": "Không cho phép ký tự đặc biệt. Phải kết thúc bằng đuôi .js"
+  },
+  "sidePanel": {
+    "actions": "Thao tác",
+    "bot": "Bot {name}",
+    "botHooks": "Bot Hooks",
+    "conf": "Cấu hình",
+    "currentBot": "Bot hiện tại",
+    "eventHooks": "Event Hooks",
+    "filterFiles": "Lọc file",
+    "generalHooks": "Hooks dùng chung",
+    "global": "Global",
+    "hooks": "Hooks",
+    "moduleConf": "Cấu hình mô-đun",
+    "pipelineHooks": "Pipeline Hooks",
+    "rawFileEditor": "Trình chỉnh sửa file gốc",
+    "sharedLibs": "Thư viện"
+  },
+  "splash": {
+    "advancedEditor": "Trình chỉnh sửa nâng cao",
+    "basicEditor": "Trình chỉnh sửa cơ bản",
+    "bigWarning": "CẢNH BÁO",
+    "codeEditor": "Trình chỉnh sửa mã nguồn",
+    "commandPalette": "Giao diện dòng lệnh",
+    "editorDesc": "Trình chỉnh sửa mã cho phép bạn tạo và chỉnh sửa các hành động mà không cần rời khỏi botpress studio. Nó có tính năng đánh máy và hoàn thành mã thông minh. Để chỉnh sửa tệp chung và nội dung do mô-đun tạo, bạn cần kích hoạt tính năng đó bằng cách chỉnh sửa tệp cấu hình code-editor.json.",
+    "newFile": "Tạo mới file",
+    "rawEditorDesc": "Trình chỉnh sửa tệp thô không có biện pháp bảo vệ và bạn có thể dễ dàng làm hỏng các tệp quan trọng. Xử lý cẩn thận! Bạn có thể chỉnh sửa bất kỳ tệp nào có trong thư mục dữ liệu, tạo tệp mới và di chuyển các tệp hiện có xung quanh.",
+    "saveFile": "Lưu file"
+  },
+  "store": {
+    "alreadyExists": "Một file có tên này đã tồn tại. Vui lòng chọn tên khác.",
+    "chooseName": "Choose the name of your {type}. No special chars. Use camel case",
+    "confirmDeleteFile": "Bạn có chắc chắn muốn xóa file có tên {file}?",
+    "confirmSaveFile": "Bạn có chắc chắn lưu những thay đổi trên file {file}?",
+    "fileDeleted": "Xóa file thành công!",
+    "fileDisabled": "Vô hiệu hóa file thành công!",
+    "fileDuplicated": "Nhân đôi file thành công!",
+    "fileEnabled": "Kích hoạt file thành công!",
+    "fileRenamed": "Đổi tên file thành công!",
+    "fileSaved": "Lưu file thành công!",
+    "fileUploaded": "Tải lên file thành công!",
+    "invalidFilename": "Tên file không hợp lệ",
+    "onlySuperAdmins": "Chỉ có Super Admin mới được quyền dùng trình chỉnh sửa file gốc."
+  },
+  "uploadModal": {
+    "completeFilePath": "Điền hoàn chỉnh đưuòng dẫn file",
+    "filePathHelp": "Điền hoàn chỉnh đưuòng dẫn tới file. Bao gồm cả tên file và đuôi file. Phải bắt đầu bằng /data. Ví dụ: /data/global/botpress.config.json",
+    "overwrite": "Ghi đè file đã tồn tại",
+    "selectFile": "Chọn file",
+    "uploadFile": "Tải lên file"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "qnas": [
+    {
+      "id": "16y2ki6wm1_dia_chi_truong",
+      "data": {
+        "answers": {
+          "vi": [
+            "TRỤ SỞ CHÍNH\n122 Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Tp. Hà Nội\nCƠ SỞ ĐÀO TẠO PHÍA BẮC (BVH)\nKm 10 Đường Nguyễn Trãi, Phường Mộ Lao, Quận Hà Đông, Tp. Hà Nội\nCƠ SỞ ĐÀO TẠO PHÍA NAM (BVS)\nSố 11 Nguyễn Đình Chiểu, Phường ĐaKao, Quận 1, Tp. Hồ Chí Minh"
+          ]
+        },
+        "questions": {
+          "vi": [
+            "em hỏi với trường mình nằm ở chỗ nào",
+            "trường ở địa chỉ nào vậy",
+            "địa chỉ của trường ở đâu",
+            "địa chỉ của trường mình là ở đâu vậy",
+            "địa chỉ nhận của trường là ở đâu",
+            "thì cơ sở học sẽ ở quận 9 hay quận 1 vậy",
+            "vậy em sẽ học ở quận 1 hay quận 9",
+            "vậy cơ sở quận 1 là học gì admin",
+            "nếu học chất lượng cao thì toàn bộ học quận 1",
+            "làm sao để được học cơ sở quận 1 vậy admin",
+            "và cơ sở 2 thì học ở quận 9 phải không",
+            "học tại cơ sở quận 9 thành phố",
+            "cho em hỏi chúng em học ở quận 9 hở anh",
+            "cho em hỏi thêm 1 điều nữa là em nộp hồ sơ giấy qua đường bưu điện theo địa chỉ là học viện công nghệ bưu chính viễn thông cơ sở thành phố hồ chí minh số 11 nguyễn đình chiểu quận 1 thành phố hồ chí minh đúng không"
+          ]
+        },
+        "redirectFlow": "",
+        "redirectNode": "",
+        "action": "text",
+        "enabled": true,
+        "contexts": [
+          "global"
+        ]
+      }
+    },
+    {
+      "id": "31oi0r2lvp_hoc_phi",
+      "data": {
+        "answers": {
+          "vi": [
+            "Học phí trình độ đại học hệ chính quy chương trình đại trà năm học 2023-2024: trung bình từ khoảng 24,5 triệu đồng đến 27,8 triệu đồng/năm tùy theo từng ngành học;\nLộ trình tăng học phí tối đa cho từng năm: Mức học phí được điều chỉnh theo lộ trình phù hợp tương xứng với chất lượng đào tạo và đảm bảo tỷ lệ tăng không quá 15%/năm (theo Nghị định 81/2021/NĐCP của Chính phủ)."
+          ]
+        },
+        "questions": {
+          "vi": [
+            "cho em hỏi học phí 1 năm",
+            "cho em hỏi học phí này là 1 học hay 1 năm",
+            "em muốn hỏi về học phí của công nghệ đa pt tiện với",
+            "cho em học phí của mình bao nhiu cho 1 năm học vậy",
+            "cho em hỏi học phí của trường khoảng bao nhiu",
+            "cho em hỏi học phí trường mình là bao nhiu vậy",
+            "em không hiểu rõ về cách tính học phí 1 kỳ là bao nhiu ý",
+            "học phí ở bên đấy như thế nào admin",
+            "tức là nếu tính theo kì thì trung bình học phí là như thế nào vậy",
+            "học phí cho khóa mới năm nay thế nào",
+            "mình muốn hỏi học phí của trường tại cơ sở thành phố hồ chí minh",
+            "vâng học phí trường mình có nhân hệ số theo từng năm không",
+            "và em thấy có thầy trường mình bảo học phí không tăng theo các năm nhưng em tìm hiểu thì thấy có tăng",
+            "học phí có tăng theo năm học không",
+            "năm nay không giữ nguyên học phí",
+            "học phí có biến đổi qua từng năm không",
+            "học phí năm học này có p tằng nhiều hơn so vowism ọi năm không",
+            "hằng năm trường có tăng học phí không",
+            "học phí bưu chính có tăng hàng năm không"
+          ]
+        },
+        "redirectFlow": "",
+        "redirectNode": "",
+        "action": "text",
+        "enabled": true,
+        "contexts": [
+          "global"
+        ]
+      }
+    },
+    {
+      "id": "77cp93c72f_diem_san",
+      "data": {
+        "answers": {
+          "vi": [
+            "Bạn truy cập link [https://tuyensinh.ptit.edu.vn/deantuyensinh#:~:text=8.2.%20%C4%90i%E1%BB%83m%20tr%C3%BAng%20tuy%E1%BB%83n%20c%E1%BB%A7a%202%20n%C4%83m%20g%E1%BA%A7n%20nh%E1%BA%A5t%C2%A0%C2%A0](https://tuyensinh.ptit.edu.vn/deantuyensinh#:~:text=8.2.%20%C4%90i%E1%BB%83m%20tr%C3%BAng%20tuy%E1%BB%83n%20c%E1%BB%A7a%202%20n%C4%83m%20g%E1%BA%A7n%20nh%E1%BA%A5t%C2%A0%C2%A0) để xem thông tin điểm sàn của trường nhé."
+          ]
+        },
+        "questions": {
+          "vi": [
+            "có bảng điểm sàn 2019 không",
+            "anh chị cho em hỏi bao giờ trường có điển sàn với điểm sàn có chênh lệch nhiều so với điểm chuẩn không",
+            "trường chưa công bố điểm sàn",
+            "bao giờ công bố điểm sàn nhỉ admin",
+            "anh chị ơi trường mình bao giờ có điểm sàn",
+            "bao giờ thì mói có điểm sàn của trường vậy",
+            "em có tìm hiểu rồi ko biết năm nay trường mình hạ nhiều không",
+            "thế học viện đã công bố điểm sàn chưa",
+            "trường có điểm sàn chưa vậy",
+            "năm trước em thấy trường mình có bảng điểm sàn ý",
+            "liệu rằng năm nay trường mình có tăng điểm sàn nhiều không",
+            "em dưới 18d thì chắc chắn là rớt trường mình rồi đúng không admin",
+            "trường ơi cho em hỏi điểm sàn 2018 là 16đ đốii với cơ sở phía nam và áp dụng cho khu vực 3 vậy em ở khu vực 18 xã đặc biệt khó khăn thì điểm sàn có giảm không",
+            "mình xin danh sách điểm chuẩn vào các khoa năm nay nhé 2020",
+            "mình muốn xem điểm chuẩn 2020 của trường",
+            "cho em hỏi trường mình có điểm chuẩn dự kiến năm 2020 cơ sở miền nam chưa"
+          ]
+        },
+        "redirectFlow": "contexts.flow.json",
+        "redirectNode": "animal-choices",
+        "action": "redirect",
+        "enabled": true,
+        "contexts": [
+          "global"
+        ]
+      }
+    },
+    {
+      "id": "pgedex03mc_ho_so",
+      "data": {
+        "answers": {
+          "vi": [
+            "Câu trả lời hồ sơ tuyển sinh"
+          ]
+        },
+        "questions": {
+          "vi": [
+            "cho em hỏi là khi nhập học có cần phải nộp phiếu khám sức không",
+            "nộp sơ yếu lí lịch cần 1 tờ hay 2",
+            "sơ yếu lý lịch nộp 1 tờ hay 2",
+            "em là 2003 muốn nạp hồ sơ vào trường ấy",
+            "con thương binh có được giảm học phí hay như nào",
+            "em lên nộp hồ sơ là ở quận 1 phải không",
+            "cho em hỏi phiếu điểm với hồ sơ nhập học là nộp ở cơ sở quận 1 đúng không",
+            "trang cho mình hỏi là phần chữ kí của cán bộ nhận hồ sơ là của hiểu trưởng trường mình đang học",
+            "với phần hồ sơ gồm có do mình đánh dấu hay cán bộ nhận hồ sơ đánh dấu",
+            "còn phần cán bộ nhận hồ sơ",
+            "ở phần chữ kí của cán bộ nhận hồ sơ ấy",
+            "cho em hỏi em thuộc đối tượng có phụ hynh bị tai nạn lao động và được nhà nước trợ cấp thì có được giảm học phí không và khi được giảm thì em nộp giấy tờ vào hồ sơ luôn hay khi nhập học mới nộp",
+            "hay chỉ cần bộ hồ sơ của bộ giáo dục là đủ rồi",
+            "hồ sơ theo mẫu của bộ giáo dục là hồ sơ nào",
+            "do em làm hồ sơ giống bộ giáo dục rồi",
+            "cho em hỏi về việc nhập học ở trường được không",
+            "nếu đặt ở nguyện vọng 2 thì em vẫn có thể nhập học đúng không",
+            "hồ sơ nhập học đánh máy được không",
+            "em nộp hồ sơ kinh phí và học tại chi nhánh q3 hay học tại quận 9",
+            "trường đã hết hạn nộp hồ sơ năm 2022 chưa",
+            "bao giờ hết hạn nhập học với nộp hồ sơ",
+            "trường cho em hỏi em đã nộp hồ sơ được 4 ngày rồi nhưng trường vẫn chưa cập nhật tiếp nhận hồ sơ"
+          ]
+        },
+        "redirectFlow": "",
+        "redirectNode": "",
+        "action": "text",
+        "enabled": true,
+        "contexts": [
+          "global"
+        ]
+      }
+    },
+    {
+      "id": "wh0qeyfjzv_ki_tuc_xa",
+      "data": {
+        "answers": {
+          "vi": [
+            "Câu trả lời ký túc xá"
+          ]
+        },
+        "questions": {
+          "vi": [
+            "ký túc xá ở trường mình mấy giờ đóng cửa vậy admin",
+            "em có đăng ký ở ký túc xá",
+            "em cùng 1 đứa bạn muốn đăng ký ở ký túc xá",
+            "cho em hỏi là đăng ký ở ký túc xá trường mình cần điều kiện gì",
+            "trường cho em hỏi điều kiện để được đăng ký vào ký túc xá là gì",
+            "phòng công tác sinh viên bên mình làm việc thứ 7 không",
+            "em nộp phí ký túc xá 5 tháng rồi",
+            "cho em hỏi ký túc xá 5 tháng 850k là gồm những gì",
+            "ký túc xá trường mình ở bao nhiêu người và có những đồ dùng gì",
+            "ký túc xá thì bao nhiêu 1 tháng phòng mấy người",
+            "trường mình vào ở ở ký túc xá hay trọ ngoài tg nhận hồ sơ là bao nhiêu",
+            "phòng ký túc xá ở bao nhiêu người thế",
+            "ký túc xá trường thì ở bao nhiêu người 1 phòng với cả chi phí bao nhiêu 1 tháng",
+            "em cũng muốn hỏi nếu em ở ký túc xá loại dịch vụ thì phòng bao nhiêu người vậy admin",
+            "tháng ở ký túc xá bao nhiêu",
+            "ở ký túc xá thì bao nhiêu tiền 1 tháng",
+            "mức phí ở ký túc xá là bao nhiêu",
+            "nhưng ký túc xá trường mình bao nhiêu tiền một tháng vậy",
+            "và còn về ký túc xá sẽ có những khoản nào",
+            "ký túc xá dịch vụ bao nhiêu một tháng vậy admin",
+            "ký túc xá dich vụ bao nhiêu 1 tháng",
+            "anh chị ơi ký túc xá của trường mình bao nhiêu một tháng",
+            "em muốn hỏi về ký túc xá của trường",
+            "theo em biết thì trường mình có 2 ký túc xá đúng không",
+            "cho em hỏi ký túc xá của trường nằm ở đâu",
+            "cho em hỏi ký túc xá của trường có mỗi 200 chỗ thôi",
+            "trường cho em xin một ít thông tin về ký túc xá của trường",
+            "em muốn tìm hiểu ký túc xá của nhà trường",
+            "cho em xin thông tin về ký túc xá của trường ở mb",
+            "muốn tìm thông tin thêm của ký túc xá trường thì thì vào đâu"
+          ]
+        },
+        "redirectFlow": "",
+        "redirectNode": "",
+        "action": "text",
+        "enabled": true,
+        "contexts": [
+          "global"
+        ]
+      }
+    }
+  ],
+  "contentElements": []
+}

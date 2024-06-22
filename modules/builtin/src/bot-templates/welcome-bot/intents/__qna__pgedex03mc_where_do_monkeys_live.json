@@ -1,0 +1,21 @@
+{
+  "name": "__qna__pgedex03mc_where_do_monkeys_live",
+  "contexts": [
+    "monkeys"
+  ],
+  "utterances": {
+    "vi": [
+      "Khỉ sống ở đâu?",
+      "Tôi có thể tìm khỉ ở đâu?",
+      "Môi trường sống của chúng là gì?",
+      "Vị trí của khỉ là gì?",
+      "Hãy cho tôi biết nơi ở của những con khỉ?",
+      "Tôi muốn định vị chúng.",
+      "Họ ở đâu?",
+      "cho tôi biết họ đang ở đâu",
+      "Tôi muốn tìm khỉ?",
+      "Môi trường sống tự nhiên của khỉ"
+    ]
+  },
+  "slots": []
+}

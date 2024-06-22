@@ -1,0 +1,24 @@
+[
+  {
+    "id": "builtin_text-iVBzXn",
+    "formData": {
+      "text$vi": "Tôi xin lỗi, tôi không hiểu ý bạn. Bạn có thể nói lại được không?",
+      "typing$vi": true,
+      "text$fr": "Pardon, je n'ai pas compris. Veuillez me poser un autre question.",
+      "typing$fr": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-07-01T18:28:03.566Z",
+    "modifiedOn": "2019-07-01T18:31:39.862Z"
+  },
+  {
+    "id": "builtin_text-error",
+    "formData": {
+      "text$vi": "😯 Ối, có vẻ nhưng chúng tôi đang gặp một chút vấn đề. Bạn vui lòng thử những chức năng khác trong khi chúng tôi khắc phục lỗi này nhé. 🔨",
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T18:58:10.702Z",
+    "modifiedOn": "2019-09-03T18:58:10.702Z"
+  }
+]

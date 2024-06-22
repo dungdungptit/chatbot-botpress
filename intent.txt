@@ -1,0 +1,86 @@
+mã trường.
+địa chỉ cơ sở đào tạo.
+trang thông tin điện tử chính thức.
+trang mạng xã hội về tuyển sinh.
+số điện thoại liên hệ tuyển sinh.
+-* tình hình việc làm của sinh viên đã tốt nghiệp.
+thông tin tuyển sinh. --> đưa link https://tuyensinh.ptit.edu.vn/
+điểm trúng tuyển. --> chọn ngành --> chọn phương thức xét tuyển --> điểm trúng tuyển 2 năm gần nhất của các tổ hợp môn học xét tuyển
+các ngành đào tạo. --> chọn phía Bắc/Nam
+phạm vi tuyển sinh.
+chính sách học bổng.
+số lượng chỉ tiêu đại học. --> chọn phía Bắc/Nam --> chọn ngành
+số lượng chỉ tiêu đại học từ xa. --> chọn phía Bắc/Nam --> chọn ngành
+số lượng chỉ tiêu vừa học vừa làm. --> chọn phía Bắc/Nam --> chọn ngành
+đối tượng tuyển sinh đại học.
+đối tượng tuyển sinh đại học từ xa.
+đối tượng tuyển sinh vừa học vừa làm.
+điều kiện tuyển sinh đại học. --> chọn phương thức xét tuyển
+điều kiện tuyển sinh đại học từ xa.
+điều kiện tuyển sinh vừa học vừa làm.
+phương thức tuyển sinh đại học.
+phương thức tuyển sinh đại học từ xa.
+phương thức tuyển sinh vừa học vừa làm.
+ngưỡng đầu vào đại học.
+ngưỡng đầu vào đại học từ xa.
+ngưỡng đầu vào vừa học vừa làm.
+nguyên tắc xét tuyển đại học. --> chọn phương thức xét tuyển
+nguyên tắc xét tuyển đại học từ xa. --> chọn phương thức xét tuyển
+nguyên tắc xét tuyển vừa học vừa làm. --> chọn phương thức xét tuyển
+tổ hợp xét tuyển đại học. --> chọn ngành
+tổ hợp xét tuyển đại học từ xa. --> chọn ngành
+tổ hợp xét tuyển vừa học vừa làm. --> chọn ngành
+thời gian tuyển sinh đại học.
+thời gian tuyển sinh đại học từ xa.
+thời gian tuyển sinh vừa học vừa làm.
+điều kiện nhận hồ sơ dự tuyển/thi tuyển.
+điều kiện xét tuyển/thi tuyển.
+hình thức nhận hồ sơ xét tuyển đại học.
+hình thức nhận hồ sơ xét tuyển đại học từ xa.
+hình thức nhận hồ sơ xét tuyển vừa học vừa làm.
+chính sách ưu tiên đại học.
+chính sách ưu tiên đại học từ xa.
+chính sách ưu tiên vừa học vừa làm.
+lệ phí xét tuyển/thi tuyển đại học.
+lệ phí xét tuyển/thi tuyển đại học từ xa.
+lệ phí xét tuyển/thi tuyển vừa học vừa làm.
+các đợt tuyển sinh.
+đào tạo chất lượng cao. --> chọn ngành
+các doanh nghiệp hợp tác/liên kết với trường. --> liệt kê các doanh ngiệp --> chọn doanh nghiệp --> thông tin chi tiết
+hồ sơ tuyển sinh đại học.
+hồ sơ tuyển sinh đại học từ xa.
+hồ sơ tuyển sinh vừa học vừa làm.
+chương trình đào tạo đại học. --> chọn ngành
+chương trình đào tạo đại học từ xa. --> chọn ngành
+chương trình đào tạo vừa học vừa làm. --> chọn ngành
+học phí đại học.
+học phí đại học từ xa.
+học phí vừa học vừa làm.
+cơ sở vật chất.
+ký túc xá.
+thi đánh giá năng lực.
+liên thông cao đẳng đại học.
+các chuyên ngành hẹp. --> chọn phía Bắc/Nam --> chọn ngành
+tỉ lệ chọi của trường.
+chuyển nghĩa vụ quân sự.
+giấy báo trúng tuyển/nhập học.
+bằng cấp khi tốt nghiệp.
+tra cứu điểm. --> đưa link https://tracuu.ptit.edu.vn/
+điều kiện xét tuyển thạc sĩ.
+điều kiện xét tuyển tiến sĩ.
+số lượng chỉ tiêu thạc sĩ.
+số lượng chỉ tiêu tiến sĩ.
+đối tượng tuyển sinh thạc sĩ.
+đối tượng tuyển sinh tiến sĩ.
+phương thức tuyển sinh thạc sĩ.
+phương thức tuyển sinh tiến sĩ.
+lệ phí xét tuyển/thi tuyển thạc sĩ.
+lệ phí xét tuyển/thi tuyển tiến sĩ.
+hồ sơ xét tuyển thạc sĩ.
+hồ sơ xét tuyển tiến sĩ.
+học phí thạc sĩ.
+học phí tiến sĩ.
+các chuyên ngành đào tạo thạc sĩ.
+các chuyên ngành đào tạo tiến sĩ.
+chương trình đào tạo thạc sĩ. --> chọn ngành
+chương trình đào tạo tiến sĩ. --> chọn ngành

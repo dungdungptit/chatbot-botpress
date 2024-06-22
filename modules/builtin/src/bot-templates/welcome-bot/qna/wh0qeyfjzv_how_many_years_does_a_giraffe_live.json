@@ -1,0 +1,31 @@
+{
+  "id": "wh0qeyfjzv_how_many_years_does_a_giraffe_live",
+  "data": {
+    "answers": {
+      "vi": [
+        "Hươu cao cổ khỏe mạnh sống khoảng 25 năm trong tự nhiên."
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Hươu cao cổ sống được bao nhiêu năm?",
+        "Hươu cao cổ có thể sống bao lâu?",
+        "Tuổi thọ của hươu cao cổ là bao nhiêu?",
+        "Tuổi thọ của hươu cao cổ",
+        "Tuổi thọ điển hình của hươu cao cổ?",
+        "Hươu cao cổ có thể bao nhiêu tuổi?",
+        "Hươu cao cổ thường chết khi nào?",
+        "Tuổi thọ",
+        "Hươu cao cổ có sống lâu không?",
+        "Hãy cho tôi biết về tuổi thọ của hươu cao cổ!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "giraffes"
+    ]
+  }
+}

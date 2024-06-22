@@ -1,0 +1,27 @@
+thông tin về trường
+  thông tin chung
+  cơ sở vật chất phục vụ đào tạo
+  ký túc xá
+thông tin tuyển sinh
+  thông tin chung
+  tuyển sinh đại hoc
+    đại học chính quy
+      hệ đại trà
+      hệ chất lượng cao
+    đại học từ xa
+    đại học vừa học vừa làm
+    đại học liên thông
+  tuyển sinh sau đại học
+      Thạc sĩ
+      Tiến sĩ
+Chính sách
+  học bổng
+  học phí
+  ưu tiên
+đào tạo
+  các ngành đào tạo
+    chuyên ngành
+    chương trình đào tạo
+thủ tục nhập học
+  chuyển nghĩa vụ quân sự
+  giấy báo trúng tuyển/nhập học

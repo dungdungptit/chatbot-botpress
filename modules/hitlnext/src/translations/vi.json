@@ -1,0 +1,95 @@
+{
+  "name": "hitlnext",
+  "fullName": "HITL Next",
+  "sort": {
+    "mostRecentlyCreated": "Được tạo nhiều nhất gần đây",
+    "leastRecentlyCreated": "Được tạo ít nhất gần đây"
+  },
+  "filter": {
+    "unassigned": "Chưa được giao",
+    "assignedMe": "Đã được giao",
+    "assignedOther": "Đã được giao cho cộng tác viên khác",
+    "resolved": "Đã xử lý",
+    "rejected": "Đã loại bỏ",
+    "expired": "Đã hết hạn"
+  },
+  "sortBy": "Sắp xếp theo",
+  "filterBy": "Lọc theo",
+  "newMessage": "Tin nhắn mới",
+  "agent": {
+    "status": "Trạng thái: {status}",
+    "name": "Tên: {name}",
+    "online": "Online",
+    "offline": "Offline",
+    "getOnline": "Get Online",
+    "getOffline": "Get Offline",
+    "onlineSuccess": "Hiện tại bạn đang online",
+    "offlineSuccess": "Hiện tại bạn đang offline"
+  },
+  "handoff": {
+    "created": "Đã tạo vào {date}",
+    "contactDetails": "Chi tiết liên hệ",
+    "status": {
+      "pending": "đang chờ xử lý",
+      "assigned": "đã được giao",
+      "resolved": "đã xử lý",
+      "rejected": "đã loại bỏ",
+      "expired": "đã hết hạn"
+    },
+    "assignedToAgent": "Bạn đã được giao cho một agent",
+    "assignedToYou": "Đoạn hội thoại được giao cho bạn",
+    "assign": "Giao cho tôi",
+    "resolve": "Xử lý",
+    "assigned": "Handoff {id} đã được giao thành công",
+    "resolved": "Handoff {id} đã được xử lý thành công",
+    "rejected": "Handoff {id} đã được loại bỏ thành công",
+    "you": "bạn",
+    "from": "Từ {channel}"
+  },
+  "user": {
+    "anonymous": "Người dùng ẩn danh",
+    "variables": {
+      "heading": "Biến liên hệ",
+      "empty": "Không có biến",
+      "variable": "Biến",
+      "value": "Giá trị"
+    }
+  },
+  "commentForm": {
+    "addNote": "Thêm mới ghi chú",
+    "submit": "Thêm mới"
+  },
+  "comments": {
+    "heading": "Ghi chú từ agent",
+    "empty": "Chưa có bình luận nào."
+  },
+  "conversation": {
+    "delete": "Xóa đoạn hội thoại",
+    "deleted": "Đã xóa đoạn hội thoại thành công",
+    "empty": "Chọn handoffs đang chờ xử lý để tham gia trò chuyện với khách hàng của bạn.",
+    "tab": "Đoạn hội thoại",
+    "composerPlaceholder": "Trả lời người dùng",
+    "send": "Gửi"
+  },
+  "handoffs": {
+    "empty": "Cảm ơn bạn và nhóm của bạn, hiện tại không có bản handoffs nào đang chờ xử lý."
+  },
+  "sidebar": {
+    "tab": "Handoffs",
+    "access": "Truy cập Botpress Handoffs",
+    "agents": {
+      "heading": "Agents Online",
+      "empty": "Hiện tại không có agents online."
+    },
+    "handoffs": {
+      "heading": "Handoffs gần đây nhất",
+      "empty": "Cảm ơn bạn và nhóm của bạn, hiện tại không có bản handoffs nào đang chờ xử lý."
+    }
+  },
+  "tags": {
+    "heading": "Handoff labels",
+    "empty": "Thẻ không được kích hoạt cho bot này.",
+    "placeholder": "Thêm mới hoặc xóa nhãn",
+    "noResults": "Không có kết quả."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "__qna__31oi0r2lvp_where_do_giraffes_live",
+  "contexts": [
+    "giraffes"
+  ],
+  "utterances": {
+    "vi": [
+      "Tôi có thể tìm hươu cao cổ ở đâu?",
+      "Họ sống ở đâu?",
+      "Môi trường sống tự nhiên của chúng là gì?",
+      "Tôi đang tìm hươu cao cổ",
+      "Địa điểm có nhiều hươu cao cổ nhất",
+      "Hãy cho tôi biết hươu cao cổ sống ở đâu!",
+      "Hươu cao cổ nằm ở đâu?",
+      "Làm thế nào tôi có thể tìm thấy một con hươu cao cổ hoang dã?",
+      "Hươu cao cổ ở đâu?",
+      "Tìm hươu cao cổ ở đâu"
+    ]
+  },
+  "slots": []
+}

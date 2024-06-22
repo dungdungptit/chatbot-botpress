@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "batdau",
+  "nodes": [
+    {
+      "id": "3rr0r",
+      "name": "batdau",
+      "onEnter": ["say #!builtin_text-error"],
+      "onReceive": null,
+      "next": []
+    }
+  ]
+}

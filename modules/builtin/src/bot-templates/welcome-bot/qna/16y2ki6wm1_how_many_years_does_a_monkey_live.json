@@ -1,0 +1,31 @@
+{
+  "id": "16y2ki6wm1_how_many_years_does_a_monkey_live",
+  "data": {
+    "answers": {
+      "vi": [
+        "Tuổi thọ của một con khỉ là từ 10 đến 50 năm, tùy thuộc vào loài."
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Con khỉ sống bao nhiêu năm?",
+        "Khỉ sống được bao lâu?",
+        "Tuổi thọ của khỉ là bao nhiêu?",
+        "Tuổi thọ điển hình của khỉ",
+        "Khỉ có sống lâu không?",
+        "Con khỉ có thể bao nhiêu tuổi?",
+        "Chúng ta có thể mong đợi tuổi thọ bao lâu từ loài khỉ?",
+        "Khi nào khỉ chết?",
+        "Thông thường một con khỉ có thể sống được bao lâu?",
+        "Tuổi thọ của con khỉ"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "monkeys"
+    ]
+  }
+}

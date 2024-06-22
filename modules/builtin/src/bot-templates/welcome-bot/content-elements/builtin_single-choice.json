@@ -1,0 +1,66 @@
+[
+  {
+    "id": "builtin_single-choice-elJyV5",
+    "formData": {
+      "text$vi": "a",
+      "choices$vi": [
+        {
+          "title": "1",
+          "value": "1"
+        },
+        {
+          "title": "2",
+          "value": "2"
+        }
+      ],
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-17T14:29:04.897Z",
+    "modifiedOn": "2019-07-01T13:51:45.562Z"
+  },
+  {
+    "id": "builtin_single-choice-mrFFU_",
+    "formData": {
+      "text$vi": "Bạn muốn biết thông tin về điều gì?",
+      "choices$vi": [
+        {
+          "title": "Ngữ cảnh là gì?",
+          "value": "ngữ cảnh"
+        },
+        {
+          "title": "Bộ nhớ bot là gì?",
+          "value": "bộ nhớ bot"
+        }
+      ],
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T16:42:46.073Z",
+    "modifiedOn": "2019-07-01T13:51:45.567Z"
+  },
+  {
+    "id": "builtin_single-choice-yOBfeA",
+    "formData": {
+      "text$vi": "Ok, tôi sẽ lấy một ví dụ đơn giản. Chúng ta sẽ nói về động vật. Bạn có thể chọn một trong những động vật sau đây:",
+      "choices$vi": [
+        {
+          "title": "Con khỉ",
+          "value": "khỉ"
+        },
+        {
+          "title": "Con hươu cao cổ",
+          "value": "hươu cao cổ"
+        }
+      ],
+      "typing$vi": true,
+      "markdown$vi": true,
+      "dropdownPlaceholder$vi": "Hãy chọn ...",
+      "disableFreeText$vi": false,
+      "isDropdown$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-03-25T18:12:55.197Z",
+    "modifiedOn": "2019-07-01T13:51:45.572Z"
+  }
+]

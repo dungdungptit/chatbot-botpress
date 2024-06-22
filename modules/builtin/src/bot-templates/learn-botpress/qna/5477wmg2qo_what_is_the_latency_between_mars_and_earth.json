@@ -1,0 +1,26 @@
+{
+  "id": "5477wmg2qo_what_is_the_latency_between_mars_and_earth",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "vi": [
+        "Năm đến hai mươi phút, tùy thuộc vào vị trí của các hành tinh!"
+      ]
+    },
+    "questions": {
+      "vi": [
+        "Độ trễ giữa Sao Hỏa và Trái đất là bao nhiêu?",
+        "Mất bao nhiêu thời gian để ánh sáng di chuyển giữa Sao Hỏa và Trái đất?",
+        "Nếu tôi gửi tín hiệu tới sao Hỏa bây giờ, thì sẽ mất bao nhiêu thời gian để đến được đó?",
+        "Sự khác biệt về múi giờ giữa Sao Hỏa và Trái đất là bao nhiêu?",
+        "Với tốc độ ánh sáng, mất bao nhiêu thời gian để đến sao Hỏa?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

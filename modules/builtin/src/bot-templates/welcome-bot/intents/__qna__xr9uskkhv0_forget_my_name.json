@@ -1,0 +1,19 @@
+{
+  "name": "__qna__xr9uskkhv0_forget_my_name",
+  "contexts": ["memory"],
+  "utterances": {
+    "vi": [
+      "quên tên tôi đi",
+      "không nhớ tôi",
+      "xóa tên tôi",
+      "xóa tôi đi",
+      "ngừng nhớ về tôi",
+      "quên tôi đi",
+      "Xin hãy quên danh tính của tôi đi",
+      "Bạn có thể xóa tên tôi khỏi cơ sở dữ liệu của bạn không?",
+      "Tôi có thể yêu cầu bạn quên tôi là ai không?",
+      "Xóa ký ức của bạn về tên của tôi"
+    ]
+  },
+  "slots": []
+}

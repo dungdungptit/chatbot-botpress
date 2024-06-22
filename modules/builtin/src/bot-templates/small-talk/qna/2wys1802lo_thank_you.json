@@ -1,0 +1,47 @@
+{
+  "id": "2wys1802lo_thank_you",
+  "data": {
+    "questions": {
+      "vi": [
+        "Cảm ơn",
+        "Cảm ơn",
+        "Cám ơn",
+        "Cảm ơn rất nhiều!",
+        "cảm ơn rất nhiều!",
+        "hoàn hảo, cảm ơn bạn!",
+        "trân trọng",
+        "Một ngàn lời cảm ơn!",
+        "Tôi rất biết ơn vì những gì bạn đã làm",
+        "Cảm ơn vì thời gian của bạn hôm nay",
+        "Tôi đánh giá cao những gì bạn đã làm"
+      ],
+      "fr": [
+        "Merci",
+        "Mille mercis",
+        "Je vous remercie",
+        "Merci beaucoup",
+        "C'est apprécié",
+        "C'est vraiment gentil de ta part",
+        "Je vous adresse mes plus vifs remerciements",
+        "Merci de votre aide",
+        "Je te suis très reconnaissant",
+        "Je vous suis éternellement redevable"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Không có gì."
+      ],
+      "fr": [
+        "Ça fait plaisir!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

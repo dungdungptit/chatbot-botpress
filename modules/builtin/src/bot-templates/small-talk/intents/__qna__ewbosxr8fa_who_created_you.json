@@ -1,0 +1,35 @@
+{
+  "name": "__qna__ewbosxr8fa_who_created_you",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "vi": [
+      "ai đã tạo ra bạn?",
+      "ai là người tạo ra bạn?",
+      "ai đứng sau bot này?",
+      "tên nhà sản xuất của bạn là gì?",
+      "cha của bạn là ai?",
+      "bố mẹ bạn là ai?",
+      "người tạo ra bạn?",
+      "Hãy cho tôi biết về người sáng tạo của bạn",
+      "Ai đã xây dựng bạn?",
+      "Bạn đã tạo ra ai ở đâu?",
+      "Ai đã lập trình cho bạn?",
+      "Ai mã hóa ngươi?"
+    ],
+    "fr": [
+      "Qui est-ce qui t'a construit",
+      "Qui est ton constructeur?",
+      "Quel personne t'a conçu?",
+      "Qui sont les fabricateurs ce bot?",
+      "Parle moi de tes concepteurs",
+      "Qui est derrière la programmation de cet assistant?",
+      "quel équipe est responsable de ton existence?",
+      "Qui t'a créé?",
+      "Parle moi de ta création",
+      "Tes créateurs, qui sont-ils?"
+    ]
+  },
+  "slots": []
+}

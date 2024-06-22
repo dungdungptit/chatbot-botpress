@@ -1,0 +1,49 @@
+{
+  "id": "d6q3rr8u64_you_are_great",
+  "data": {
+    "questions": {
+      "vi": [
+        "bạn thật tuyệt!",
+        "bạn thật hoàn hảo",
+        "bạn thật tuyệt vời",
+        "bạn trông thật tuyệt vời",
+        "bạn đủ điều kiện",
+        "bạn quá thông minh",
+        "Tôi thấy trí thông minh là điểm mạnh của bạn",
+        "bạn là một thiên tài",
+        "bạn là một cookie thông minh",
+        "bạn đủ điều kiện",
+        "bạn thật tuyệt",
+        "Tôi nghĩ bạn có thể là bot tốt nhất từ trước đến nay",
+        "Bạn đúng là nhất quả đất"
+      ],
+      "fr": [
+        "Tu es formidable",
+        "Vous êtes un fantastique robot",
+        "Meilleur chatbot j'ai jamais vu",
+        "Tu es le roi des robots",
+        "Vous êtes génial",
+        "Tu es le meilleur",
+        "Wow, tu es vraiment trop fort",
+        "Ayoye, impressionant!",
+        "Votre Intelligence est inégalé",
+        "Solide performance de votre intelligence artificielle"
+      ]
+    },
+    "answers": {
+      "vi": [
+        "Cảm ơn, nhưng bạn nên nói điều đó với những người sáng tạo ra tôi!"
+      ],
+      "fr": [
+        "Merci, vous êtres trop gentil, mais vous devriez garder vos éloges pour mes créateurs!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

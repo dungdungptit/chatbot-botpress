@@ -1,0 +1,127 @@
+[
+  {
+    "id": "builtin_text-0xvGfV",
+    "formData": {
+      "text$vi": "Xin chào",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:19:25.522Z",
+    "modifiedOn": "2021-09-21T15:19:25.522Z"
+  },
+  {
+    "id": "builtin_text-RvPCjo",
+    "formData": {
+      "text$vi": "Tôi là Bot chụp ảnh Mars Rover nhằm giới thiệu các tính năng mà bạn sẽ cần để xây dựng bot đầu tiên của mình!",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:20:22.463Z",
+    "modifiedOn": "2021-09-21T15:20:22.463Z"
+  },
+  {
+    "id": "builtin_text-5qjreV",
+    "formData": {
+      "text$vi": "Rất tiếc, có vẻ như bạn đã vượt quá giới hạn!",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:31:13.636Z",
+    "modifiedOn": "2021-09-21T15:31:13.636Z"
+  },
+  {
+    "id": "builtin_text-MgRwhE",
+    "formData": {
+      "text$vi": "Đưa bạn trở lại một nơi an toàn",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:31:33.824Z",
+    "modifiedOn": "2021-09-21T15:31:33.824Z"
+  },
+  {
+    "id": "builtin_text-2sVPOP",
+    "formData": {
+      "text$vi": "Tuyệt vời, hãy thử viết nội dung nào đó như “Cho tôi xem ảnh xe tự hành sao Hỏa từ ngày 5 tháng 2 năm 2018\"",
+      "markdown$vi": true,
+      "typing$vi": true,
+      "variations$vi": [
+        "Tuyệt, hãy thử viết một cái gì đó như “Cho tôi xem ảnh xe tự hành sao Hỏa từ ngày 1 tháng 4 năm 2016\"",
+        "Tuyệt, hãy thử viết một cái gì đó như “Cho tôi xem ảnh xe tự hành sao Hỏa từ 2014-10-02\""
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:35:50.335Z",
+    "modifiedOn": "2021-09-21T15:35:50.335Z"
+  },
+  {
+    "id": "builtin_text-eOp9PY",
+    "formData": {
+      "text$vi": "Tôi xin lỗi, tôi đã không nhận được điều đó ",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:41:05.132Z",
+    "modifiedOn": "2021-09-21T15:41:05.132Z"
+  },
+  {
+    "id": "builtin_text-g69lJz",
+    "formData": {
+      "text$vi": "Bạn muốn lấy ảnh từ ngày nào (hãy thử chọn ngày betwevi 2013 và 2020)",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:54:29.598Z",
+    "modifiedOn": "2021-09-21T15:54:29.598Z"
+  },
+  {
+    "id": "builtin_text-Cmiv8o",
+    "formData": {
+      "text$vi": "Không chắc tôi đã nhận được điều đó. Có thể thử YYYY-MM-DD, như 2015-09-09",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T15:55:12.290Z",
+    "modifiedOn": "2021-09-21T15:55:12.290Z"
+  },
+  {
+    "id": "builtin_text-hKKZUd",
+    "formData": {
+      "text$vi": "Không có hình ảnh vào ngày hôm đó! Gợi ý: hãy thử vào ngày 3 tháng 3 năm 2014.",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T16:07:46.599Z",
+    "modifiedOn": "2021-09-21T16:07:46.599Z"
+  },
+  {
+    "id": "builtin_text-Un0j09",
+    "formData": {
+      "text$vi": "Của bạn đi. Chúc mừng từ sao Hỏa!",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-09-21T16:19:29.816Z",
+    "modifiedOn": "2021-09-21T16:19:29.816Z"
+  },
+  {
+    "id": "builtin_text-CAyqet",
+    "formData": {
+      "text$vi": "**Mẹo chuyên nghiệp** : Xem cách tôi được tạo ra hoặc tự xây dựng tôi bằng cách sử dụng hướng dẫn từng bước của chúng tôi tại [botpress.com/mars-rover-tutorials](https://botpress.com/mars-rover-tutorials )!",
+      "markdown$vi": true,
+      "typing$vi": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-10-06T17:57:46.622Z",
+    "modifiedOn": "2021-10-06T18:44:18.556Z"
+  }
+]
