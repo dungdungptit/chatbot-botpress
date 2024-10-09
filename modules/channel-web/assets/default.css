@@ -67,7 +67,7 @@ body {
 
 .bpw-widget-btn:focus,
 .bpw-widget-btn:hover {
-  background-color: #333;
+  background-color: #b8231d;
 }
 
 .bpw-chat-container {
@@ -1139,7 +1139,7 @@ body {
 }
 
 .bpw-from-user .bpw-chat-bubble {
-  background-color: #4278f3;
+  background-color: #c0181a;
   color: #ffffff;
 }
 
@@ -1155,7 +1155,7 @@ body {
 .bpw-header-container {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
-  background-color: #4278f3;
+  background-color: #c0181a;
   border-bottom: none;
 }
 
@@ -1181,7 +1181,7 @@ body {
 .bpw-composer textarea {
   background: #ececec;
   border-radius: 20px;
-  font-size: 1.25rem;
+  /* font-size: 1.25rem; */
   overflow: hidden;
 }
 
@@ -1207,7 +1207,7 @@ body {
 }
 
 .bpw-widget-btn {
-  background-color: #4278f3;
+  background-color: #c0181a;
 }
 
 .bpw-layout {
